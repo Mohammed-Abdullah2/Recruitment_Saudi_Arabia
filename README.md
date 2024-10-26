@@ -27,7 +27,7 @@
 - handle missing valuse .
 - Dealing with outliers .
 
-# inights
+# insights
 (![image](https://github.com/user-attachments/assets/7ae5e49e-5dd2-418a-a595-d856604248d3)
 )
 (![image](https://github.com/user-attachments/assets/f4e9b87a-e920-426b-baca-28db8a77b9de)
