@@ -1,18 +1,18 @@
 # jadarat 2023 data analysis
 ## This dataset provides information on job postings in Saudi Arabia from Jadarat, including:
 
-1 Company details
-2 Job descriptions
-3 Required Qualifications
-4 Job tasks
-5 Salary
-6 Contract details
-7 Positions available
-8 Job post ID
-9 Years of experience required
-10 Gender
-11 Region
-12 City
+1. Company details
+2. Job descriptions
+3. Required Qualifications
+4. Job tasks
+5. Salary
+6. Contract details
+7. Positions available
+8. Job post ID
+9. Years of experience required
+10. Gender
+11. Region
+12. City
 ## The data set contains 1470 rows and 18 columns
 
 ### It's useful for students and professionals interested in analyzing employment trends and labor market dynamics in Saudi Arabia. The data can help identify areas of job growth, analyze required skills and qualifications, and assess gender representation. The dataset can also be beneficial for policymakers looking to promote job creation and economic growth. With this dataset, users can conduct research projects, generate data insights, and develop innovative solutions to employment challenges in Saudi Arabia.
